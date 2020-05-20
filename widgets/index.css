@@ -1,0 +1,31 @@
+div {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 24px;
+  
+
+}
+
+section {
+    display: flex;
+    background-color: orange;
+    border: 3px solid black;
+    width: 600px;
+    height: 150px;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 20px;
+
+}
+.clock{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+    
